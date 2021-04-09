@@ -5,6 +5,7 @@
     margin: 1rem;
     border: solid black;
     padding: 1rem;
+    border-radius: 25px;
 }
 
 .quote__header {
