@@ -1,0 +1,17 @@
+.location__image {
+    max-height: 10rem;
+}
+
+.locations {
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.location{
+     flex-basis: 16%;
+}
+
+.location__name {
+    
+}
