@@ -2,5 +2,11 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin: 3rem;
+    margin: 1rem;
+    border: solid black;
+    padding: 1rem;
+}
+
+.quote__header {
+text-align: center;
 }

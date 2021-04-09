@@ -1,5 +1,6 @@
 .fish__image {
     max-height: 10rem;
+    padding: 1rem;
 }
 
 .fishes {
@@ -10,4 +11,6 @@
 
 .fish {
      flex-basis: 16%;
+     border: 1px dotted palevioletred;
+     margin: 1rem;
 }
