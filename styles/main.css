@@ -8,6 +8,7 @@
     text-align: center;
     margin: 3rem;
     border: solid grey;
+    border-radius: 25px;
 }
 
 .container {
@@ -16,4 +17,7 @@
 
 .bordered {
     border: 1px solid mediumaquamarine;
+    border-radius: 25px;
+   
+   
 }
